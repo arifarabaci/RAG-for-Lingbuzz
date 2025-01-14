@@ -1,0 +1,1 @@
+The system uses dense embeddings and cosine similarity to identify semantically relevant articles, while incorporating metadata such as publication date and popularity to refine retrieval rankings. The most relevant abstracts are then used as context for generating concise summaries or responses to user queries.
